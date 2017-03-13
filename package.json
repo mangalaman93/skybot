@@ -1,0 +1,23 @@
+{
+  "name": "skybot",
+  "version": "0.1.0",
+  "description": "Test Skype bot",
+  "main": "skybot.js",
+  "scripts": {
+    "start": "node skybot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangalaman93/skybot.git"
+  },
+  "author": "Aman Mangal",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mangalaman93/skybot/issues"
+  },
+  "homepage": "https://github.com/mangalaman93/skybot",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
