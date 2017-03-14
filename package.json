@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mangalaman93/skybot",
   "dependencies": {
     "botbuilder": "^3.7.0",
+    "botbuilder-calling": "^3.0.1",
     "restify": "^4.3.0"
   }
 }
